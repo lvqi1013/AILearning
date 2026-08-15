@@ -1,0 +1,1 @@
+This repository is about learning AI knowledge. It will gradually incorporate machine learning, deep learning, reinforcement learning, as well as some pioneering papers and specific directions.
